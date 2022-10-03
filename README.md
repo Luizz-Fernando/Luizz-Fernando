@@ -2,7 +2,7 @@
 
 
 - 🔭 apaixonado por programação
-- 👨🏾‍💻 Cursando Desenvolvimentos de Sistemas
+- 👨🏾‍💻 Aprendendo novas Tecnologias
 
 <div align="center">
   <a href="https://github.com/Luizz-Fernando">
