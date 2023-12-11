@@ -17,7 +17,7 @@
   <img align="center" alt="Luiz-PHP" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Luiz-PYTHON" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Luiz-MYSQL" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />  
-  <img align="center" alt="Luiz-Vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="Luiz-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   </div>
   
   ##
