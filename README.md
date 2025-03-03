@@ -1,5 +1,9 @@
 <h2 align="left">Olá, eu sou o Luiz👋</h2>
 
+💻 Estudante de Análise e Desenvolvimento de Sistemas na PUC e atualmente atuo como desenvolvedor back-end junior. Apaixonado por programação desde o início da minha jornada profissional, tenho dedicado meus esforços em aprimorar minhas habilidades e conhecimentos na área de tecnologia.
+
+💡 Ao longo da minha carreira, tive a oportunidade de aplicar meus conhecimentos em projetos práticos, trabalhando em equipe e enfrentando desafios que têm enriquecido ainda mais minha experiência profissional.
+
 ###
 
 <div align="center">
@@ -39,5 +43,12 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+## Habilidades
+- **Golang**: Focado em estudos e na construção de APIs robustas e escaláveis, aplicando boas práticas de desenvolvimento.
+- **PHP**: Experiência com Web Scraping e Programação Orientada a Objetos (POO), criando soluções automatizadas e estruturadas.
+- **Python**: Conhecimento na linguagem para automação, análise de dados e desenvolvimento geral, com experiência no uso de bibliotecas e frameworks.
+- **Banco de dados**: Experiência no uso e integração de bancos de dados, garantindo eficiência e otimização das consultas
+- **Scrum**: Sigo as metodologias e práticas recomendadas, garantindo que as entregas sejam feitas conforme o esperado.
 
 ###
