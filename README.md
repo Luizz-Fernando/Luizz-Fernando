@@ -1,6 +1,6 @@
 <h2 align="left">Olá, eu sou o Luiz👋</h2>
 
-💻 Cursando Análise e Desenvolvimento de Sistemas na PUC e atualmente atuo como desenvolvedor back-end na Emcash. Apaixonado por programação desde o início da minha jornada profissional, tenho dedicado meus esforços em aprimorar minhas habilidades e conhecimentos na área de tecnologia.
+💻 Cursando Análise e Desenvolvimento de Sistemas na PUC e atuando como desenvolvedor back-end na Emcash. Apaixonado por programação desde o início da minha jornada profissional, tenho dedicado meus esforços em aprimorar minhas habilidades e conhecimentos na área de tecnologia.
 
 💡 Ao longo da minha carreira, tive a oportunidade de aplicar meus conhecimentos em projetos práticos, trabalhando em equipe e enfrentando desafios que têm enriquecido ainda mais minha experiência profissional.
 
