@@ -8,7 +8,7 @@
 
 <div align="center">
   <img src="https://streak-stats.vercel.app/?user=Luizz-Fernando&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="170" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luizz-Fernando&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&order=2" height="170" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luizz-Fernando&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&order=2&hide=Blade" height="170" alt="languages graph"  />
 </div>
 
 ###
